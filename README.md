@@ -1,2 +1,0 @@
-# ReduxReactTodos
-Created with CodeSandbox
